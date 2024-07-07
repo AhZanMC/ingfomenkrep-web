@@ -1,11 +1,10 @@
 ---
-slug: nightvision-x-rd
+slug: nightvision-x-rd-ahzanmc
 title: Night Vision x RD [AhZanMC]
 authors: [ahzanmc]
 tags: [texture]
 date: 2024-06-24
 ---
-[Night Vision x RD [AhZanMC]](nightvision-x-rd) | [Night Vision x RD [Behavior Pack]](nightvision-x-rd-bh) | [Night Vision x RD [Fanmade]](nightvision-x-rd-fan) 
 # Kenalan sama "Texture Night Vision x RD [AhZanMC]"
 
 Texture Night Vision x RD [AhZanMC] adalah Texture Night Vision yang bisa work di resource pack.

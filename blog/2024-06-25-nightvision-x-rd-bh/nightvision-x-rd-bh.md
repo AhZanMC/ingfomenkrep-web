@@ -5,7 +5,6 @@ authors: [ahzanmc]
 tags: [texture]
 date: 2024-06-25
 ---
-[Night Vision x RD [AhZanMC]](nightvision-x-rd) | [Night Vision x RD [Behavior Pack]](nightvision-x-rd-bh) | [Night Vision x RD [Fanmade]](nightvision-x-rd-fan)
 # Kenalan sama "Texture Night Vision x RD [Behavior Pack]"
 
 Addon Night Vision x RD [AhZanMC] adalah addon Night Vision yang bisa work di behavior pack yang akan ngasih efek Night Vision secara terus menerus tanpa henti
