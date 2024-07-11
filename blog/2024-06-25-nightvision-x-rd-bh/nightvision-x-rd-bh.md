@@ -10,10 +10,11 @@ date: 2024-06-25
 Addon Night Vision x RD [AhZanMC] adalah addon Night Vision yang bisa work di behavior pack yang akan ngasih efek Night Vision secara terus menerus tanpa henti
 
 <!-- truncate -->
+[Night Vision x RD [AhZanMC]](nightvision-x-rd-ahzanmc) | [Night Vision x RD [Behavior Pack]](nightvision-x-rd-bh) | [Night Vision x RD [Fanmade]](nightvision-x-rd-fan)
 
 ## Downloads
 :::tip[Catatan]
-Night Vision x RD [AhZanMC] udah Update ke versi 3.5, [Klik disini](/nightvision-x-rd)
+Night Vision x RD [AhZanMC] udah Update ke versi 3.5, [Klik disini](nightvision-x-rd-ahzanmc)
 :::
 
 ## Downloads

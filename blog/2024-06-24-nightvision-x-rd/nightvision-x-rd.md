@@ -12,6 +12,7 @@ Texture Night Vision x RD [AhZanMC] adalah Texture Night Vision yang bisa work d
 Texture pack ini mendukung engine renderdragon,setelah texture pack diaktifkan, Anda akan bisa melihat lingkungan di sekitar Anda dengan lebih jelas di malam hari. Anda juga bisa melihat monster dan mob lain dengan lebih mudah.
 
 <!-- truncate -->
+[Night Vision x RD [AhZanMC]](nightvision-x-rd-ahzanmc) | [Night Vision x RD [Behavior Pack]](nightvision-x-rd-bh) | [Night Vision x RD [Fanmade]](nightvision-x-rd-fan)
 
 :::tip[Catatan]
 Night Vision x RD [AhZanMC] udah Update ke versi 3.5, [Klik disini](#downloads)

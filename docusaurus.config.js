@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://youtu.be/MDnTljPQDAw',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://youtu.be/MDnTljPQDAw',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -122,6 +122,11 @@ const config = {
             position: 'right',
           },
           {
+            href: 'https://contact.ingfomenkrep.my.id/',
+            label: 'Contact Me!!',
+            position: 'right',
+          },
+          {
             type: 'docsVersionDropdown',
           },
         ],
@@ -135,6 +140,10 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
@@ -159,8 +168,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Contact Me!!!',
+                href: 'https://contact.ingfomenkrep.my.id/',
               },
               {
                 label: 'GitHub',

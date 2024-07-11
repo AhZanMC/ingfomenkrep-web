@@ -14,9 +14,10 @@ Texture pack ini mendukung engine renderdragon,setelah texture pack diaktifkan, 
 Dan ini adalah texture pack yang dikembangin oleh fans
 
 <!-- truncate -->
+[Night Vision x RD [AhZanMC]](nightvision-x-rd-ahzanmc) | [Night Vision x RD [Behavior Pack]](nightvision-x-rd-bh) | [Night Vision x RD [Fanmade]](nightvision-x-rd-fan)
 
 :::tip[Catatan]
-Night Vision x RD [AhZanMC] udah Update ke versi 3.5, [Klik disini](/nightvision-x-rd)
+Night Vision x RD [AhZanMC] udah Update ke versi 3.5, [Klik disini](nightvision-x-rd-ahzanmc)
 :::
 
 ## Downloads
