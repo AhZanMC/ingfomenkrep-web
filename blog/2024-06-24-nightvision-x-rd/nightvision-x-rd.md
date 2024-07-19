@@ -15,7 +15,7 @@ Texture pack ini mendukung engine renderdragon,setelah texture pack diaktifkan, 
 [Night Vision x RD [AhZanMC]](nightvision-x-rd-ahzanmc) | [Night Vision x RD [Behavior Pack]](nightvision-x-rd-bh) | [Night Vision x RD [Fanmade]](nightvision-x-rd-fan)
 
 :::tip[Catatan]
-Night Vision x RD [AhZanMC] udah Update ke versi 3.5, [Klik disini](#downloads)
+Night Vision x RD [AhZanMC] udah Update ke versi 4, [Klik disini](#downloads)
 :::
 ## Fitur:
 
@@ -42,20 +42,24 @@ MCWin10 : [Download Here](https://www.mediafire.com/file/te0oms4rmzli4qc/Night_V
 
 **V3 (Support MC Bedrock : 1.20.50/51+)**
 
-
 MCPE : [Download Here](https://www.mediafire.com/file/qq2jz5vmulx4qvh/Night_Vision_x_RD_AhZanMC_V3_%2528MCPE%2529.mcpack/file)
 
 MCWin10 : [Download Here](https://www.mediafire.com/file/m6hds08i1qfx13j/Night_Vision_x_RD_AhZanMC_V3_%2528MCWin10%2529.mcpack/file)
 
 **V3.5 Tanpa Material Bin (Support MC Bedrock : Semua Versi)**
 
-
 Download : [Download Here](https://www.mediafire.com/file/129qpjyvn9hxqt3/Night_Vision_x_RD_%255BAhZanMC%255D_V3.5_%2528Not_Using_Material_Bin%2529.mcpack/file)
+
+**V4 (Support MC Bedrock : 1.21)**
+
+MCPE : [Download Here](https://www.mediafire.com/file/is0i64cbvvnm7y2/Night_Vision_x_RD_%255BAhZanMC%255D_V4_For_MCPE_Only.mcpack/file)
 
 
 ## Apa saja yang Update?
 :::tip[Catatan]
-- Nggak pakai Material bin 🗿
+- Bisa buat Mcpe Patch 1.21
+- Air nya transparan
+- Support MCPE 1.21+
 [Klik disini](#downloads)
 :::
 
@@ -64,5 +68,5 @@ Download : [Download Here](https://www.mediafire.com/file/129qpjyvn9hxqt3/Night_
 Creator : [AhZanMC](https://bio-link.ahzanmc.my.id/)
 
 :::warning[Catatan]
-Untuk Night Vision x RD [AhZanMC] V1-3 yang menggunakan Material bin, harap gunakan MCPE Patch yang mendukung
+Untuk Night Vision x RD [AhZanMC] V1-4 yang menggunakan Material bin, harap gunakan MCPE Patch yang mendukung
 :::
