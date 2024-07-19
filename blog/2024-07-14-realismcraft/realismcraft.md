@@ -8,7 +8,7 @@ date: 2024-07-14
 # Addon Realism Craft
 Addon yang membuat Minecraft Lebih Realistis dan membuat dunia lebih fresh
 
-<!-- Truncate -->
+<!-- truncate -->
 Cobalah untuk menikmati kembali keindahan Minecraft dengan RealismCraft: 
 - Pembuatan dunia kustom
 - VFX mirip shader 
