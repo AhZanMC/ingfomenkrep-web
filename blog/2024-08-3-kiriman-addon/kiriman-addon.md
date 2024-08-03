@@ -18,3 +18,8 @@ Fitur :
 
 Link Download : [Click Here](https://www.mediafire.com/file/2w0o80t9nr54mu4/dirt_crafting_item_op_1621858906608.mcaddon/file)
 Creator : [ALB CH](https://youtube.com/@albch?si=40tyy-d79XnmYwFS)
+
+### ADDON KENDARAAN V1
+
+Link addon : [Click Here](https://www.mediafire.com/file/cvwhidg9o2y60bs/Add-on_kendaraan_v.1.mcaddon/file)
+Creator : AryaElementa1
