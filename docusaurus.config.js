@@ -126,9 +126,6 @@ const config = {
             label: 'Contact Me!!',
             position: 'right',
           },
-          {
-            type: 'docsVersionDropdown',
-          },
         ],
       },
       footer: {
