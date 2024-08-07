@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/blog">
-            Mampir Yuk 😁
+            Let's Go!!!
           </Link>
         </div>
       </div>

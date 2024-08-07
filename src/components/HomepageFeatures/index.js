@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: "Easy to Use",
+    title: "Mudah Digunakan",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Lorem Ipsum dolor sit amet
+        Akses dimana saja dan kapan saja, dan mudah untuk diakses oleh siapapun.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
+    title: "Lengkap",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        Lorem Ipsum dolor sit amet
+        Berisi penuh dengan perpustakaan tutorial minecraft dan lain-lain.
       </>
     ),
   },
   {
-    title: "Powered by React",
+    title: "Creator : AhZanMC",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        Lorem Ipsum dolor sit amet
+        Dibuat oleh AhZanMC (pasti kamu udah kenal kan)
       </>
     ),
   },

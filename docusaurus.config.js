@@ -65,12 +65,12 @@ const config = {
     ({
       algolia: {
         // The application ID provided by Algolia
-        appId: 'YOUR_APP_ID',
+        appId: 'BCGZZETB2M',
   
         // Public API key: it is safe to commit it
-        apiKey: 'YOUR_SEARCH_API_KEY',
+        apiKey: 'a214f2aa5402106aa6ca1d94ee6017d2',
   
-        indexName: 'YOUR_INDEX_NAME',
+        indexName: 'ingfomenkrep-my',
   
         // Optional: see doc section below
         contextualSearch: true,
@@ -79,10 +79,11 @@ const config = {
         externalUrlRegex: 'external\\.com|domain\\.com',
   
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
+        // Dimatiin dulu karena bikin bug
+        // replaceSearchResultPathname: {
+        //   from: '/docs/', // or as RegExp: /\/docs\//
+        //   to: '/docs',
+        // },
   
         // Optional: Algolia search parameters
         searchParameters: {},
@@ -108,7 +109,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Informasi',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -135,7 +136,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Informasi',
                 to: '/docs/intro',
               },
               {
