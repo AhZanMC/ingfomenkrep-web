@@ -39,6 +39,7 @@ Mau tau cara pasang  **addon** , **texture pack** , **shader**  atau **Cara Down
 - BhycingLucero
 - Overlix
 - Farkan
+- Rifat
 
 **Kontributor :**
 - DaxredGM

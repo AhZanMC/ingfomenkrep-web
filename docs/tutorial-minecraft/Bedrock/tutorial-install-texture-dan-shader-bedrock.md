@@ -46,6 +46,12 @@ Lokasi Direktori Folder Minecraft Bedrock
 5. Setelah itu buka Minecraft dan cek di setting > global resource untuk memastikan apakah Texture atau Shader nya terbaca atau tidak
 6. Selesai
 
+## Video Tutorial
+
+[![YouTube](http://i.ytimg.com/vi/vi_QOn4zEfA/hqdefault.jpg)](https://www.youtube.com/watch?v=vi_QOn4zEfA)
+
+[![YouTube](http://i.ytimg.com/vi/omsS1EvFRAE/hqdefault.jpg)](https://www.youtube.com/watch?v=omsS1EvFRAE)
+
 ## Pertanyaan
 
 Jika ada pertanyaan tentang repository ini kamu bisa DM ig @ahzanmc

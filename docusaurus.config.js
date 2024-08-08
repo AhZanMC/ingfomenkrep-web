@@ -111,7 +111,8 @@ const config = {
             position: 'left',
             label: 'Informasi',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: 'docs/category/repozan', label: 'Repozan', position: 'left' },
           {
             href: 'https://github.com/AhZanMC',
             label: 'GitHub',

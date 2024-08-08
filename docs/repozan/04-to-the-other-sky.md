@@ -1,14 +1,17 @@
 ---
+id: to-the-other-sky
+title: To the Other Sky
+sidebar_position: 3
 slug: to-the-other-sky
-title: To the Other Sky (Map Parkour)
-authors: [ahzanmc]
-tags: [map]
-date: 2024-07-14
+tags:
+  - Texture
+  - Shader
+description: To the Other Sky by AhZanMC
 ---
-# To The Other Sky
+
+## INTRO
 Adalah projects map parkour yang dibuat oleh AhZanMC yang dimulai dari pertengahan Juli 2023 sampai Akhir Agustus 2023 (1 bulan lebih) yaitu Map To the Other Sky dan dirilis tanggal 2 September 2023
 
-<!-- truncate -->
 ## Tentang Map Ini
 Map **"To the Other Sky"** adalah sebuah map parkour mirip Only Up yang hadir di versi MCPE/Bedrock Edition yang berlatar belakang sebuah kota yang sudah tidak layak huni akibat suatu peristiwa mengerikan yaitu tragedi pengeboman dari bangsa lain. Nah kamu adalah orang satu-satunya yang selamat dari peristiwa mengerikan tersebut.
 

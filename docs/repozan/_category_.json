@@ -1,0 +1,15 @@
+{
+  "position": 99,
+  "label": "Repozan",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Repozan",
+    "description": "Repository AhZanMC - Kumpulan Project yang pernah dibuat oleh AhZanMC"
+  },
+  "customProps": {
+    "description": "Repository AhZanMC - Kumpulan Project yang pernah dibuat oleh AhZanMC"
+  }
+}

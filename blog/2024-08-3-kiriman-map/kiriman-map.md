@@ -11,11 +11,17 @@ date: 2024-08-03
 Ini adalah kumpulan Map yang dikirim dari Subscriber AhZanMC.
 
 <!-- truncate -->
-**NOTE :**
-Pengen map, addon, texture, atau Shader buatan kalian di review?. Kalian bisa kirim lewat email yaitu contact@ahzanmc.my.id
+:::info[Info]
+Ingin map, addon, texture, atau shader buatanmu dilirik banyak orang?. Yuk kirimkan karyamu melalui email ke contact@ahzanmc.my.id atau bisa [kesini](https://ahzanmc.my.id/contact) dan siapa tahu bisa di review oleh AhZanMC
 
-Atau bisa kirim lewat ig @ahzanmc
+Bingung cara mengirim email? [Cek panduan ini](../docs/tutor-kirim-email).
+:::
 
+[Map](kiriman-map-dari-subscriber) |
+[Addon](kiriman-addon-dari-subscriber) |
+[Texture](kiriman-texture-dari-subscriber) |
+[Shader](kiriman-shader-dari-subscriber)
+---
 ## Map Desa Angker ID
 
 Map horor buatan Bocah ThexAs
