@@ -1,7 +1,7 @@
 ---
 slug: kiriman-map-dari-subscriber
 title: Kumpulan Map dari Subscriber
-authors: [ahzanmc]
+authors: ahzanmc
 tags: [map, dari subsciber]
 date: 2024-08-03
 ---
@@ -16,6 +16,8 @@ Ingin map, addon, texture, atau shader buatanmu dilirik banyak orang?. Yuk kirim
 
 Bingung cara mengirim email? [Cek panduan ini](../docs/tutor-kirim-email).
 :::
+
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image)](https://imapi.ingfomenkrep.my.id/random-link)
 
 [Map](kiriman-map-dari-subscriber) |
 [Addon](kiriman-addon-dari-subscriber) |

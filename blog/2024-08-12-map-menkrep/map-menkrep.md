@@ -1,14 +1,15 @@
 ---
 slug: map-menkrep
 title: Rekomendasi Map Minecraft
-author: [ ahzanmc ]
-tags: [ map ]
+authors: [ahzanmc]
+tags: [map]
 date: 2024-08-12
 ---
 
 Berikut ini adalah rekomendasi Map Minecraft yang bisa kamu mainkan
 
 <!-- truncate -->
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ---
 ### ONE LUCKY BLOCK

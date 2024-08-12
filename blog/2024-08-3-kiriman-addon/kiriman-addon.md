@@ -16,6 +16,8 @@ Ingin map, addon, texture, atau shader buatanmu dilirik banyak orang?. Yuk kirim
 Bingung cara mengirim email? [Cek panduan ini](../docs/tutor-kirim-email).
 :::
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image)](https://imapi.ingfomenkrep.my.id/random-link)
+
 [Map](kiriman-map-dari-subscriber) |
 [Addon](kiriman-addon-dari-subscriber) |
 [Texture](kiriman-texture-dari-subscriber) |

@@ -8,6 +8,7 @@ date: 2024-07-11
 # ADDON INI AKAN MEMBUAT MINECRAFT JADI TRAILER
 
 <!-- truncate -->
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ### 1. Action and Stuff
 

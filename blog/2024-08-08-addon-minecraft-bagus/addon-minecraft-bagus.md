@@ -8,6 +8,7 @@ date: 2024-08-08
 
 Rekomendasi Addon MCPE/Bedrock Keren
 <!-- truncate -->
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ## Rekomendasi Addon MCPE/Bedrock Keren
 Kontributor
@@ -64,9 +65,11 @@ Kontributor
 
 https://www.planetminecraft.com/project/mosslorn-1000x1000-abandoned-city-map-bedrock-port-by-den-worlds-studios/
 
-> CREDIT: LEXAAAMC```
+> CREDIT: LEXAAAMC
+
 > SUMBER: LEXAAAMC
-> JANGAN HAPUS CREDIT```
+
+> JANGAN HAPUS CREDIT
 
 © JAYAKIMOCHI
 https://whatsapp.com/channel/0029Vag54f7DTkK7ouZkS214
@@ -94,17 +97,16 @@ https://whatsapp.com/channel/0029Vag54f7DTkK7ouZkS214
 ---
 ### MISTIC ADDON SWORD
 
-![Addon Pedang](img/IMG-20240811-WA0095.jpg)
+**LINK DOWNLOAD :** [Click to Download](https://www.mediafire.com/file/0qljv3uk11bdfta/sword_BE.mcaddon.zip/file)
 
-**LINK DOWNLOAD**
-[Click to Download](https://www.mediafire.com/file/0qljv3uk11bdfta/sword_BE.mcaddon.zip/file)
+![Addon Pedang](img/IMG-20240811-WA0095.jpg)
 
 ---
 ### PALEOCRAFT DINOSAUR BREAKOUT
 
-![dino](img/IMG-20240811-WA0181.jpg)
-
 [Click to Download](https://www.mediafire.com/file/23cen182lbxxcrg/Paleocraft_Dinosaur_Breakout_By_Void.mcaddon/file)
+
+![dino](img/IMG-20240811-WA0181.jpg)
 
 ---
 ### RAINBOW WEAPONS
@@ -112,3 +114,12 @@ https://whatsapp.com/channel/0029Vag54f7DTkK7ouZkS214
 [Click Here to Download](https://www.mediafire.com/file/jyccveos3ciuwtl/RAINBOW_WEAPONS_By_robyDoow_%28world_template%29.mctemplate.zip/file)
 
 ![pelangi senjata](img/IMG-20240810-WA0078(1).jpg)
+
+---
+### Advance Power Suits
+
+[Click Here](https://www.mediafire.com/file/bsp32ysv1rl8kyy/Advanced_Power_Suits_%2528Add-On%2529.mcaddon/file)
+
+![alt text](img/image.png)
+
+---

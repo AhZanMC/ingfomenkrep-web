@@ -8,6 +8,7 @@ date: 2024-08-08
 
 Rekomendasi Addon MCPE/Bedrock Untuk Survival
 <!-- truncate -->
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ## Rekomendasi Addon MCPE/Bedrock Untuk Survival
 Kontributor
