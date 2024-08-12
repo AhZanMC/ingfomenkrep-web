@@ -8,8 +8,10 @@ date: 2024-08-12
 
 Berikut ini adalah rekomendasi Map Minecraft yang bisa kamu mainkan
 
+
 <!-- truncate -->
-[![Random Image](https://imapi.ingfomenkrep.my.id/random-image)](https://imapi.ingfomenkrep.my.id/random-link)
+
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-show)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ---
 ### ONE LUCKY BLOCK

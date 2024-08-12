@@ -14,6 +14,8 @@ Texture pack ini mendukung engine renderdragon,setelah texture pack diaktifkan, 
 <!-- truncate -->
 [Night Vision x RD [AhZanMC]](nightvision-x-rd-ahzanmc) | [Night Vision x RD [Behavior Pack]](nightvision-x-rd-bh) | [Night Vision x RD [Fanmade]](nightvision-x-rd-fan)
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-show)](https://imapi.ingfomenkrep.my.id/random-link)
+
 :::tip[Catatan]
 Night Vision x RD [AhZanMC] udah Update ke versi 4, [Klik disini](#downloads)
 :::

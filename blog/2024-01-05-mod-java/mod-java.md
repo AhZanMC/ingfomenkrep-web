@@ -8,6 +8,7 @@ date: 2024-01-05
 
 Kumpulan mod-mod untuk Java Edition
 <!-- truncate -->
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-show)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ## MOD UNTUK JAVA EDITION
 
