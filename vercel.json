@@ -1,0 +1,19 @@
+{
+    "redirects": [
+        {
+            "source": "/grup-wa",
+            "destination": "https://chat.whatsapp.com/F9eenItL1mN06f2sxhCave",
+            "permanent": true
+        },
+        {
+            "source": "/discord",
+            "destination": "https://discord.gg/zXb7FASu2V",
+            "permanent": true
+        },
+        {
+            "source": "/saluran-wa",
+            "destination": "https://whatsapp.com/channel/0029VaEmx5qC1FuFkAHeUR1d",
+            "permanent": true
+        }
+    ]
+}
