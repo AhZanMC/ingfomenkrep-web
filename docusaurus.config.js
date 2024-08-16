@@ -151,15 +151,15 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://afdmc.ingfomenkrep.my.id/discord.html',
+                href: 'https://ingfomenkrep.my.id/discord.html',
               },
               {
                 label: 'Saluran WA',
-                href: 'https://afdmc.ingfomenkrep.my.id/saluran-wa.html',
+                href: 'https://ingfomenkrep.my.id/saluran-wa.html',
               },
               {
                 label: 'Discord',
-                href: 'https://afdmc.ingfomenkrep.my.id/grup-wa.html',
+                href: 'https://ingfomenkrep.my.id/grup-wa.html',
               },
             ],
           },

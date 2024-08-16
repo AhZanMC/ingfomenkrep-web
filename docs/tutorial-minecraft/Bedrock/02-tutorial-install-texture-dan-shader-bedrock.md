@@ -1,6 +1,6 @@
 ---
 id: tutor-texture-0
-title: Bedrock (Umum)
+title: Tutorial Install Texture dan Shader di Minecraft Bedrock (Secara Umum)
 slug: tutorial-install-texture-dan-shader-bedrock
 tags:
   - Bedrock
@@ -12,7 +12,7 @@ description: Tutorial Install Shader dan Texture di Minecraft Bedrock (Secara Um
 
 # Tutorial Install Texture atau Shader ke MCPE atau Minecraft Bedrock
 
-### 1.) Metode .mcpack
+### Metode .mcpack
 
 1. Gunakan aplikasi [ES File Explorer](https://es-file-explorer.id.uptodown.com/android "Download Aplikasi ES File Explorer") (khusus di hp), kemudian install dan buka aplikasi tersebut
 2. Cari file Texture atau Shader yang sudah kamu download
@@ -23,7 +23,7 @@ description: Tutorial Install Shader dan Texture di Minecraft Bedrock (Secara Um
 7. Untuk memastikan, cek di setting > global resource
 8. Selesai
 
-### 2.) Metode .zip
+### Metode .zip
 
 1. Gunakan aplikasi seperti [ES File Explorer](https://es-file-explorer.id.uptodown.com/android "Download Aplikasi ES File Explorer") atau [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=id&gl=US "Download Aplikasi ZArchiver"), kemudian install dan buka aplikasi tersebut
 2. Cari file Texture atau Shader yang sudah kamu download

@@ -10,6 +10,10 @@ date: 2024-07-11
 <!-- truncate -->
 [![Random Image](https://imapi.ingfomenkrep.my.id/random-image-show)](https://imapi.ingfomenkrep.my.id/random-link)
 
+## KONTEN 28-7-2024
+
+[![YouTube](http://i.ytimg.com/vi/NPim5if82dk/hqdefault.jpg)](https://www.youtube.com/watch?v=NPim5if82dk)
+
 ### 1. Action and Stuff
 
 [Download](https://drive.google.com/file/d/1MdF6yslLaS0jZbsJwluqSP2RL69lgyrw/view?usp=drive_link)
@@ -34,7 +38,6 @@ Mengubah grafik Minecraft Jadi Seperti Trailer
 Seperti yang Anda ketahui, Minecraft hanya memiliki tiga Perspektif Kamera, yang bagus tetapi tidak cukup. Jadi saya membuat mod ini, yang menambahkan beberapa Perspektif Kamera baru yang berguna & menarik ke Minecraft
 
 Addon ini sangat mudah digunakan, berfungsi dengan addon lain, dan berfungsi sempurna untuk semua perangkat pemutar, yaitu pemutar seluler, pemutar PC, dll.
-![tamnel](https://modbay.org/uploads/posts/2024-02/more-camera-perspectives-main-cover.jpg)
 
 [Download Addon 1](https://modbay.org/mods/1590-more-camera-perspectives.html)
 
@@ -42,6 +45,6 @@ Addon ini sangat mudah digunakan, berfungsi dengan addon lain, dan berfungsi sem
 
 [Download Addon 3](https://mcpedl.com/player-see/)
 
-
-### SEED MCPE
+:::info[Seed yang dipakai di video]
 -2032795982907864146
+:::

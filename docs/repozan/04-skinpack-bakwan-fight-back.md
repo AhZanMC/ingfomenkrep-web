@@ -1,7 +1,7 @@
 ---
 id: 0skinpack-bakwan-fight-back
 title: Skinpack Bakwan Fight Back
-sidebar_position: 3
+sidebar_position: 4
 slug: 0skinpack-bakwan-fight-back
 tags:
   - Texture

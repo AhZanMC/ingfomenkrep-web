@@ -1,7 +1,7 @@
 ---
 id: to-the-other-sky
 title: To the Other Sky
-sidebar_position: 3
+sidebar_position: 5
 slug: to-the-other-sky
 tags:
   - Texture
