@@ -119,7 +119,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://afdmc.ingfomenkrep.my.id',
+            to: '/blog/afdmc',
             label: 'AFDMC',
             position: 'right',
           },

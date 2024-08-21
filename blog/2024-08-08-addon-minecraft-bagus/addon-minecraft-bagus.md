@@ -125,7 +125,7 @@ https://whatsapp.com/channel/0029Vag54f7DTkK7ouZkS214
 ---
 ### Addon WorldEdit: Bedrock Edition
 
-Ini adalah addon Minecraft Bedrock atau MCPE yang di porting dari mod WorldEdit yang terkenal untuk Minecraft Java Edition. Addon ini dilengkapi dengan command khusus untuk membuat proses build/membangun menjadi lebih mudah dan lebih menyenangkan!. Gak cuma itu, ada juga item khusus untuk memudahkan siapa pun di perangkat apa pun untuk menggunakannya.
+Ini adalah addon Minecraft Bedrock atau MCPE yang di porting dari mod WorldEdit yang terkenal untuk Minecraft Java Edition. Addon ini dilengkapi dengan command khusus untuk membuat proses build/membangun menjadi lebih mudah dan lebih menyenangkan!. Gak cuma itu, ada juga item khusus untuk memudahkan siapa pun di perangkat apa pun untuk menggunakannya. Dan buat para builder wajib tau addon ini
 
 **Fitur**
 
@@ -138,10 +138,8 @@ WorldEdit: Bedrock Edition memiliki banyak fitur penting yang dimiliki mod asli.
 * Brush
 * Undo dan Redo
 * Fill dan replace block
-* Menyimpan dan memuat struktur (diperlukan aplikasi untuk terjadi di antara dunia)
-* Memodifikasi bioma (diperlukan aplikasi)
 
-**Catatan: Addon ini bergantung pada fitur eksperimenta**
+**Catatan: Addon ini bergantung pada fitur eksperimental**
 
 Download Disini : [Click Here](https://mcpedl.com/worldedit-be-addon/)
 
