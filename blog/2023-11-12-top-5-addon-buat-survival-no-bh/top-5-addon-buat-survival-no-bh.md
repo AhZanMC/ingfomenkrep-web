@@ -3,7 +3,7 @@ slug: top-5-addon-buat-survival-no-behavior
 title: TOP 5 ADDON MCPE 1.20+ - COCOK BUAT SURVIVAL NO BEHAVIOR❗❗❗
 authors: [ahzanmc]
 tags: [website]
-date: 2024-11-12
+date: 2023-11-12
 ---
 
 [![YouTube](http://i.ytimg.com/vi/ampXbqj8T7w/hqdefault.jpg)](https://www.youtube.com/watch?v=ampXbqj8T7w)
