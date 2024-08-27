@@ -45,7 +45,7 @@ Kalian cuma hancurin grass block,dan nanti bakal muncul block random lainnya,ing
 
 Map ini cocok buat kalian yang mau survival lebih menantang atau survival bareng temen kalian
 
-Link Download >> [![Static Badge](https://img.shields.io/badge/download-here)](https://www.mediafire.com/file/l0nu1zsgj4g5o70/Map_One_Block_Minecraft_MCPE_1.21_%2528Linked_by_AhZanMC%2529.mcworld/file) Link Mediafire
+Link Download >> [![Static Badge](https://img.shields.io/badge/download-here)](https://www.mediafire.com/file/l0nu1zsgj4g5o70/Map_One_Block_Minecraft_MCPE_1.21_%2528Linked_by_AhZanMC%2529.mcworld/file)
 
 ---
 
