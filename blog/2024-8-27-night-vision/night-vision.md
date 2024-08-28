@@ -25,7 +25,7 @@ Texture Night Vision ini support MCPE 1.21.20 Official (Patch) dan ini bukan pun
 :::
 
 :::warning[NOTE]
-Bang udah bang, aku capek lohh nyari night vision mulu, tiap hari diteror mulu
+Bang udah bang, aku capek lohh nyari night vision mulu, tiap hari kalian nanya night vision mulu 🗿
 :::
 
 ---
