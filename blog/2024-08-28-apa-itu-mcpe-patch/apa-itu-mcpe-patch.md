@@ -2,8 +2,8 @@
 slug: apa-itu-mcpe-patch
 title: Apa Itu Minecraft atau MCPE Patched? Semudah Itu Kah Memasang Shaders Render Dragon di MCPE?
 authors: [ahzanmc]
-tags: [map]
-date: 2024-08-12
+tags: [shader, mcpe, texture]
+date: 2024-08-28
 ---
 
 <!-- truncate -->
