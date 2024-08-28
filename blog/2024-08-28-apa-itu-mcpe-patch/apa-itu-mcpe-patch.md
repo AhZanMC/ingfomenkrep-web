@@ -6,6 +6,8 @@ tags: [shader, mcpe, texture]
 date: 2024-08-28
 ---
 
+Semenjak mcpe update ke versi 1.18.30, Mojang resmi menggunakan engine renderdragon baru yaitu **Renderdragon** yang membuat shader-shader di versi lama nggak support lagi, jadi sebagai komunitas Minecraft Bedrock terutama player MCPE kecewa karena gak bisa main Minecraft pakai shader.
+
 <!-- truncate -->
 
 [![Random Image](https://imapi.ingfomenkrep.my.id/random-image-show)](https://imapi.ingfomenkrep.my.id/random-link)
@@ -43,6 +45,15 @@ Sampai sekarang penikmat shader atau developer asli shader menggunakan Minecraft
 5. Terkadang butuh kesabaran ekstra (seperti konflik versi 1.20.73 dengan 1.20.80)
 6. Ketersediaan versi 32 bit sangat sedikit
 
+## Cara Download Menkrep Patched
+
+Kalian bisa kunjungi website ini
+
+1. https://minecraftpatched.blogspot.com
+2. https://discord.com/invite/yss
+3. https://yss.minecraft.pe/id/MinecraftPatched/
+4. https://afdmc.ingfomenkrep.my.id/
+
 ## CARA INSTALL SHADER DI MCPE PATCH
 
 [![YouTube](http://i.ytimg.com/vi/omsS1EvFRAE/hqdefault.jpg)](https://www.youtube.com/watch?v=omsS1EvFRAE)
@@ -50,3 +61,12 @@ Sampai sekarang penikmat shader atau developer asli shader menggunakan Minecraft
 ## Credit
 
 [Apa Itu Minecraft / MCPE Patched? || Semudah Itu Kah Memasang Shaders Render Dragon?](https://youtu.be/BZBebJplBFs?si=Hgu3uF_K4PI1giUM) dari Channel ZeroCraft
+
+## Follow Me
+
+- Website : [AhZanMC](https://bio-link.ahzanmc.my.id/)
+- Youtube : [AhZanMC](https://youtube.com/c/AhZanMC)
+- Instagram : [@ahzanmc](https://www.instagram.com/ahzanmc/)
+- Tiktok : [@ahzanmc](http://tiktok.com/@ahzanmc)
+- Discord : [Teman Fauzan](https://ahzanmc.my.id/discord)
+- Saluran WA : [Klik disini](https://whatsapp.com/channel/0029VaWN5AR05MUmTwwxfj3K)
