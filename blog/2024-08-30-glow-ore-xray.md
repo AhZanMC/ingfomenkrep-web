@@ -1,6 +1,6 @@
 ---
 slug: glow-ore-xray
-title: Texture Night Vision For MCPE 1.21.20
+title: GLOWING ORE Dan Texture X Ray For MCPE 1.21.20 ‼️‼️
 authors: [ahzanmc]
 tags: [addon, shader, texture]
 date: 2024-08-30
