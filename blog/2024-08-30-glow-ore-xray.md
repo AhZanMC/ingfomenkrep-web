@@ -25,10 +25,15 @@ Click here >> [Download](https://www.mediafire.com/file/to0q4wdunp4h4du/%255B1.2
 > Download Link : https://www.mediafire.com/file/pi36z844z4t9oae/X-Ray_Pro_%257E_BibingUhuyy.mcpack/file
 
 TYPE : **TEXTURE**
+
 VERSI SUPPORT : **1.19.0 - 1.21.22**
+
 AUTHOR : **Brandon Taylor**
+
 Operating System : **Android**
+
 SUMBER : https://whatsapp.com/channel/0029ValF5goIiRorpxIyWo2z
+
 SHARE : **BibingUhuyy**
 
 :::tip[NOTE]
