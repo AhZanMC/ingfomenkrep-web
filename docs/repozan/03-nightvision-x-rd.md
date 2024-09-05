@@ -10,6 +10,14 @@ description: Night Vision buat MCPE dan udah support RenderDragon
 ---
 # Kenalan sama "Texture Night Vision x RD [AhZanMC]"
 
+:::info
+
+Mulai hari ini tanggal 6 September 2024, texture **Night Vision x RD [AhZanMC]** sudah dinyatakan **DISCONTINUE** itu artinya udah gak ada update lagi kedepan
+
+Makasih yang udah pakai texture 
+
+:::
+
 Texture Night Vision x RD [AhZanMC] adalah Texture Night Vision yang bisa work di resource pack.
 
 Texture pack ini mendukung engine renderdragon,setelah texture pack diaktifkan, Anda akan bisa melihat lingkungan di sekitar Anda dengan lebih jelas di malam hari. Anda juga bisa melihat monster dan mob lain dengan lebih mudah.
