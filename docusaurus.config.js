@@ -8,53 +8,51 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ingfo Menkrep',
-  tagline: 'Portal Informasi Minecraft',
-  favicon: 'img/favicon.ico',
+  title: "Ingfo Menkrep",
+  tagline: "Portal Informasi Minecraft",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://ingfomenkrep.my.id',
+  url: "https://ingfomenkrep.my.id",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AhZanMC', // Usually your GitHub org/user name.
-  projectName: 'project-ingfomenkrep', // Usually your repo name.
+  organizationName: "AhZanMC", // Usually your GitHub org/user name.
+  projectName: "project-ingfomenkrep", // Usually your repo name.
 
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "warn",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://youtu.be/MDnTljPQDAw',
+          editUrl: "https://youtu.be/MDnTljPQDAw",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://youtu.be/MDnTljPQDAw',
+          editUrl: "https://youtu.be/MDnTljPQDAw",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -65,118 +63,131 @@ const config = {
     ({
       algolia: {
         // The application ID provided by Algolia
-        appId: 'BCGZZETB2M',
-  
+        appId: "BCGZZETB2M",
+
         // Public API key: it is safe to commit it
-        apiKey: 'a214f2aa5402106aa6ca1d94ee6017d2',
-  
-        indexName: 'ingfomenkrep-my',
-  
+        apiKey: "a214f2aa5402106aa6ca1d94ee6017d2",
+
+        indexName: "ingfomenkrep-my",
+
         // Optional: see doc section below
         contextualSearch: true,
-  
+
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-        externalUrlRegex: 'external\\.com|domain\\.com',
-  
+        externalUrlRegex: "external\\.com|domain\\.com",
+
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         // Dimatiin dulu karena bikin bug
         // replaceSearchResultPathname: {
         //   from: '/docs/', // or as RegExp: /\/docs\//
         //   to: '/docs',
         // },
-  
+
         // Optional: Algolia search parameters
         searchParameters: {},
-  
+
         // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-  
+        searchPagePath: "search",
+
         // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
         insights: false,
-  
+
         //... other Algolia params
       },
       // Replace with your project's social card
-      image: 'img/logo.webp',
+      image: "img/logo.webp",
       navbar: {
-        title: 'Ingfo Menkrep',
+        title: "Ingfo Menkrep",
         logo: {
-          alt: 'Logo Ingfo Menkrep',
-          src: 'img/logo.webp',
+          alt: "Logo Ingfo Menkrep",
+          src: "img/logo.webp",
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Informasi',
+          // Kiri
+          { 
+            to: "/docs/intro", 
+            label: "Informasi", 
+            position: "left" 
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
-          { to: 'docs/category/repozan', label: 'Repozan', position: 'left' },
+          { 
+            to: "/blog", 
+            label: "Blog", 
+            position: "left" 
+          },
+          { 
+            to: "docs/category/repozan", 
+            label: "Repozan", 
+            position: "left" 
+          },
+          // Kanan
           {
-            href: 'https://github.com/AhZanMC',
-            label: 'GitHub',
-            position: 'right',
+            to: "/blog/afdmc",
+            label: "AFDMC",
+            position: "right",
           },
           {
-            to: '/blog/afdmc',
-            label: 'AFDMC',
-            position: 'right',
+            href: "https://ingfomenkrep.my.id/support",
+            label: "Support",
+            position: "right",
           },
           {
-            href: 'https://contact.ingfomenkrep.my.id/',
-            label: 'Contact Me!!',
-            position: 'right',
+            href: "https://ingfomenkrep.my.id/contact",
+            label: "Contact Me!!",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Docs",
             items: [
               {
-                label: 'Informasi',
-                to: '/docs/intro',
+                label: "Informasi",
+                to: "/docs/intro",
               },
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
+              },
+              {
+                label: "Tutorial",
+                to: "/docs/category/tutorial-minecraft",
               },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'Discord',
-                href: 'https://ingfomenkrep.my.id/discord.html',
+                label: "Discord",
+                href: "https://ingfomenkrep.my.id/discord",
               },
               {
-                label: 'Saluran WA',
-                href: 'https://ingfomenkrep.my.id/saluran-wa.html',
+                label: "Saluran WA",
+                href: "https://ingfomenkrep.my.id/saluran-wa",
               },
               {
-                label: 'Discord',
-                href: 'https://ingfomenkrep.my.id/grup-wa.html',
+                label: "Discord",
+                href: "https://ingfomenkrep.my.id/grup-wa",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'Contact Me!!!',
-                href: 'https://contact.ingfomenkrep.my.id/',
+                label: "Contact Me!!!",
+                href: "https://ingfomenkrep.my.id/contact",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: "Support Me!!!",
+                href: "https://ingfomenkrep.my.id/support",
               },
               {
-                label: 'AFDMC',
-                href: 'https://afdmc.ingfomenkrep.my.id',
+                label: "AFDMC",
+                href: "https://afdmc.ingfomenkrep.my.id",
               },
             ],
           },

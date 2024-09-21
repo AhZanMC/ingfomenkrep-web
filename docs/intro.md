@@ -54,7 +54,7 @@ Ingfo Menkrep dibuat oleh para penggemar Minecraft yang bersemangat untuk berbag
 :::
 
 :::note[Contact]
-Jika kamu memiliki pertanyaan, saran, collab, melaporkan bug,atau ingin berkontribusi, dll. Bisa hubungi lewat [sini](https://contact.ingfomenkrep.my.id/) atau melalui email contact@ahzanmc.my.id
+Jika kamu memiliki pertanyaan, saran, collab, melaporkan bug,atau ingin berkontribusi, dll. Bisa hubungi lewat [sini](https://ingfomenkrep.my.id/contact) atau melalui email contact@ahzanmc.my.id
 :::
 
 Terimakasih

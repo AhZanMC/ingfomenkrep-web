@@ -14,6 +14,16 @@
             "source": "/saluran-wa",
             "destination": "https://whatsapp.com/channel/0029VaEmx5qC1FuFkAHeUR1d",
             "permanent": true
+        },
+        {
+            "source": "/support",
+            "destination": "https://saweria.co/AhZanMC",
+            "permanent": true
+        },
+        {
+            "source": "/contact",
+            "destination": "https://afdmc.ingfomenkrep.my.id",
+            "permanent": true
         }
     ],
     

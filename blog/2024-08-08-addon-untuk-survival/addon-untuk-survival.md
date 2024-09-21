@@ -12,7 +12,7 @@ Rekomendasi Addon MCPE/Bedrock Untuk Survival
 
 ## Rekomendasi Addon MCPE/Bedrock Untuk Survival
 Kontributor
-- Rivat
+- Oddo
 - AhZanMC
 - Breeze
 
@@ -55,3 +55,46 @@ Cobalah untuk menikmati kembali keindahan Minecraft dengan RealismCraft:
 
     Addon file : [Click Here](https://www.mediafire.com/file/n4788vh7vwds7lp/RealismCraft_Add-On_by_sneypmc_bought_TBQ.mcaddon/file)
 </details>
+
+---
+
+### Easy Harvest
+![alt text](image/easy-harvest.png)
+
+https://www.mediafire.com/file/w933ru38y00o04h/instant-harvest-addon-by-withnout.mcpack/file
+
+---
+
+### Dynamic Light
+
+**Video Review dari AhZanMC**
+
+[![YouTube](http://i.ytimg.com/vi/gnVvZ0U-owM/hqdefault.jpg)](https://www.youtube.com/watch?v=gnVvZ0U-owM)
+
+**Link Download**
+
+Marketplace : https://www.minecraft.net/en-us/marketplace/pdp?id=2c9dedd5-0918-41e5-ac58-d952a2bae7a6
+
+Mediafire : https://www.mediafire.com/file/rd2skwwgdopj7gq/Dynamic_Light_Add-On_by_SolomkaMODS.mcaddon/file
+
+---
+
+### Night Vision MCPE 1.21
+
+[![YouTube](http://i.ytimg.com/vi/tMQPD4BY-Rc/hqdefault.jpg)](https://www.youtube.com/watch?v=tMQPD4BY-Rc)
+
+Halo teman-teman! Pada video kali ini, saya akan membagikan texture pack night vision dan XRay terbaru yang bisa digunakan di MCPE versi 1.21 keatas yaitu Texture pack ini mendukung engine renderdragon,setelah texture pack diaktifkan, Anda akan bisa melihat lingkungan di sekitar Anda dengan lebih jelas di malam hari. Anda juga bisa melihat monster dan mob lain dengan lebih mudah.
+
+## Download
+
+Click Here >> [Download](https://www.mediafire.com/file/sjwnm3503xlnj71/FullB-Andr(fixed).mcpack/file)
+
+Creator : [Foxino 🐾](https://www.youtube.com/@foxino7386)
+
+:::tip[NOTE]
+Texture Night Vision ini support MCPE 1.21.20 Official (Patch) dan ini bukan punyaku
+:::
+
+:::warning[NOTE]
+Bang udah bang, aku capek lohh nyari night vision mulu, tiap hari kalian nanya night vision mulu 🗿
+:::

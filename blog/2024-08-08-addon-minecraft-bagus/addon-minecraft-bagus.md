@@ -12,7 +12,7 @@ Rekomendasi Addon MCPE/Bedrock Keren
 
 ## Rekomendasi Addon MCPE/Bedrock Keren
 Kontributor
-- Rivat
+- Oddo
 - AhZanMC
 - Breeze
 
@@ -144,4 +144,5 @@ WorldEdit: Bedrock Edition memiliki banyak fitur penting yang dimiliki mod asli.
 Download Disini : [Click Here](https://mcpedl.com/worldedit-be-addon/)
 
 Dokumentasi atau panduan cara pakai addon : [Click Here](https://worldedit-be-docs.readthedocs.io/en/stable/)
+
 ---

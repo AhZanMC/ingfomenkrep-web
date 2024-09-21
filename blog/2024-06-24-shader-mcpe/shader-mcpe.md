@@ -12,7 +12,7 @@ Inilah beberapa shader MCPE atau Bedrock yang bisa kamu coba!!!
 
 ## Rekomendasi Addon MCPE/Bedrock Untuk Survival
 Kontributor
-- Rivat
+- Oddo
 - AhZanMC
 - Breeze
 
