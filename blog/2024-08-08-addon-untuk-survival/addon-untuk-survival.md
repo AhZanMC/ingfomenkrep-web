@@ -85,7 +85,7 @@ Mediafire : https://www.mediafire.com/file/rd2skwwgdopj7gq/Dynamic_Light_Add-On_
 
 Halo teman-teman! Pada video kali ini, saya akan membagikan texture pack night vision dan XRay terbaru yang bisa digunakan di MCPE versi 1.21 keatas yaitu Texture pack ini mendukung engine renderdragon,setelah texture pack diaktifkan, Anda akan bisa melihat lingkungan di sekitar Anda dengan lebih jelas di malam hari. Anda juga bisa melihat monster dan mob lain dengan lebih mudah.
 
-## Download
+**Download**
 
 Click Here >> [Download](https://www.mediafire.com/file/sjwnm3503xlnj71/FullB-Andr(fixed).mcpack/file)
 
@@ -98,3 +98,87 @@ Texture Night Vision ini support MCPE 1.21.20 Official (Patch) dan ini bukan pun
 :::warning[NOTE]
 Bang udah bang, aku capek lohh nyari night vision mulu, tiap hari kalian nanya night vision mulu 🗿
 :::
+
+---
+### Saturation Pack 1.19
+
+[Link Download](https://www.mediafire.com/download/4rwztwyff6ttf3w)
+
+---
+### Dark Mode
+
+Creator : [Offroaders123](https://www.youtube.com/@offroaders123/)
+
+[Link Download](https://www.mcbedrock.com/community/mcpack/mcpe-bedrock-dark-mode-6/#post-14493)
+
+---
+### Chunk Visualizer
+
+[Link Download](https://www.mcbedrock.com/community/mcpack/mcpe-bedrock-chunk-visualizer/#post-19834)
+
+![Chunk](https://api.mcpedl.com/storage/submissions/111451/images/chunk-visualizer_2.png)
+![Chunk](https://api.mcpedl.com/storage/submissions/111451/images/chunk-visualizer_3.png)
+
+---
+### Fast Craft
+
+[Link Download](https://mcpedl.com/fast-craft-resource-pack-for-mcpe-1-19/)
+
+---
+### Visualize Enchanted Book
+
+[Link Download](https://mcpedl.com/visualize-enchanted-book/)
+
+![alt text](image/visual-enchant-book.png)
+
+---
+### REALISM FIELD + FOREST
+
+![1727180935645](image/1727180935645.png)
+
+📍Link Download : https://www.mediafire.com/folder/o4ra4bfeb00ab/CloudShare-PanPan++REALISM+Fields+And+Forest.mctemplate
+
+Type : Mc Template🌏
+
+Credit : Dz [Denz]🍁
+
+Posting : Denz 🪀
+
+---
+### Realism Craft 1.21
+
+![Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrR3fUS0jOq61GYiH979QgkHZEjePJTXcQqA&s)
+
+Download
+
+> Add-on : https://www.mediafire.com/file/pbe8s0tgbgzdiwc/Realism_Craft_1.3_By_Void.mcaddon/file
+
+> Texture : https://www.mediafire.com/file/7nnx1hshf77zh5b/Realism_Craft_Rs_1.3_By_Void.mcpack/file
+
+TYPE : Addons/Mod
+
+VERSI : TERBARU
+
+SUMBER : MARKETPLACE
+
+SHARE : RIZKY
+
+CREDIT : -
+
+Note : Jangan Versi Lama Banget Tapi mungkin 1.20 bisa semoga work di mc kalian
+
+---
+### Naturalist
+
+![1727181165767](image/1727181165767.png)
+
+Versi : 1.20-1.21
+
+Search : MarketPlace
+
+Minecraft Bedrock / Mcpe
+
+[ Link ] : https://www.mediafire.com/file/wbx9y6agw28v9p1/%C2%A76Naturalist_2.0_%C2%A72.mcaddon/file
+
+---
+### 

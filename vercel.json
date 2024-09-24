@@ -22,7 +22,7 @@
         },
         {
             "source": "/contact",
-            "destination": "https://afdmc.ingfomenkrep.my.id",
+            "destination": "https://contact.ingfomenkrep.my.id",
             "permanent": true
         }
     ],
