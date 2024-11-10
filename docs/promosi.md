@@ -1,7 +1,7 @@
 ---
 id: Promosi
 title: Open Promosi
-sidebar_position: 1
+sidebar_position: 75
 slug: Promosi
 tags:
   - Tutorial

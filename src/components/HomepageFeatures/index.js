@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: "Creator : AhZanMC",
+    title: "Part of MFNID",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        Dibuat oleh AhZanMC (pasti kamu udah kenal kan)
+        Komunitas ini telah melakukan partnership dengan MFNID
       </>
     ),
   },

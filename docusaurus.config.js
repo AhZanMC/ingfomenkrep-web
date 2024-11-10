@@ -61,6 +61,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true, // untuk aktifkan atau matikan tombol switch dark/light
+        respectPrefersColorScheme: false,
+      },
       algolia: {
         // The application ID provided by Algolia
         appId: "BCGZZETB2M",
@@ -94,8 +99,9 @@ const config = {
 
         //... other Algolia params
       },
-      // Replace with your project's social card
+      // Logo
       image: "img/logo.webp",
+      // Navbar Menu
       navbar: {
         title: "Ingfo Menkrep",
         logo: {
@@ -103,10 +109,10 @@ const config = {
           src: "img/logo.webp",
         },
         items: [
-          // Kiri
+          // Navbar Menu : Sebelah Kiri
           { 
-            to: "/docs/intro", 
-            label: "Informasi", 
+            to: "docs/intro", 
+            label: "Library", 
             position: "left" 
           },
           { 
@@ -115,20 +121,20 @@ const config = {
             position: "left" 
           },
           { 
-            to: "docs/category/repozan", 
-            label: "Repozan", 
+            to: "/docs/tentang-kami",
+            label: "About Us", 
             position: "left" 
           },
-          // Kanan
+          // Navbar Menu : Sebelah Kanan
           {
-            to: "/blog/afdmc",
+            href: "https://afdmc.ingfomenkrep.my.id/",
             label: "AFDMC",
             position: "right",
           },
-          {
-            href: "https://ingfomenkrep.my.id/support",
-            label: "Support",
-            position: "right",
+          { 
+            to: "/docs/community",
+            label: "Community", 
+            position: "right" 
           },
           {
             href: "https://ingfomenkrep.my.id/contact",
@@ -137,9 +143,11 @@ const config = {
           },
         ],
       },
+      // Footer Menu
       footer: {
         style: "dark",
         links: [
+          // Footer Menu : Section 1
           {
             title: "Docs",
             items: [
@@ -157,6 +165,7 @@ const config = {
               },
             ],
           },
+          // Footer Menu : Section 2
           {
             title: "Community",
             items: [
@@ -169,11 +178,12 @@ const config = {
                 href: "https://ingfomenkrep.my.id/saluran-wa",
               },
               {
-                label: "Discord",
+                label: "Grup WA",
                 href: "https://ingfomenkrep.my.id/grup-wa",
               },
             ],
           },
+          // Footer Menu : Section 3
           {
             title: "More",
             items: [

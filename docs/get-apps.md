@@ -1,7 +1,7 @@
 ---
 id: get-apps
 title: Aplikasi Ingfo Menkrep
-sidebar_position: 2
+sidebar_position: 1
 slug: get-apps
 tags:
   - Tutorial
