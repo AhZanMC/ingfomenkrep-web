@@ -1,0 +1,8 @@
+{
+  "label": "Pengetahuan Minecraft",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Halaman Pengetahuan Umum Tentang Minecraft"
+  }
+}
