@@ -27,7 +27,9 @@ Dengan mendownload Minecraft yang sudah di-patch, saya benar-benar paham cara me
 
 ### 1.21.50 Patch (Official)
 
-[1.21.50 Patch (Official)](https://www.mediafire.com/file/mq0ph0my1m66qs5/11836516-9598-48f8-95d8-447d6ff11f8c.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.21.41 Patch (Official)
 

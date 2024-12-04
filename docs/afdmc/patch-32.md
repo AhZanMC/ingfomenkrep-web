@@ -9,6 +9,8 @@ tags:
 description: MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang main pakai shader (Support HP Android 32 Bit)
 ---
 
+# MCPE Patch (32 Bit)
+
 :::info[Info]
 Bingung cara download, cek panduan dengan cara klik [di sini](#tutorial). Dan jika kamu menemukan link yang error atau keliru bisa menghubungi contact@ahzanmc.my.id
 :::
@@ -16,8 +18,6 @@ Bingung cara download, cek panduan dengan cara klik [di sini](#tutorial). Dan ji
 :::warning
 Dengan mendownload Minecraft yang sudah di-patch, saya benar-benar paham cara memasang texture / shaderpack, mengimpor dan mengekspor world Minecraft, memindahkan versi tanpa kehilangan data.
 :::
-
-# MCPE Patch (32 Bit)
 
 MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang main pakai shader (Support HP Android 32 Bit)
 

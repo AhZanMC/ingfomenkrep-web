@@ -27,9 +27,9 @@ Dengan mendownload Minecraft yang sudah di-patch, saya benar-benar paham cara me
 
 ### 1.21.44 Patch (Official)
 
-[1.21.44 Patch (Official)](https://www.mediafire.com/file/abqf74pdrakfe5s/(ᴋɪᴍᴏ)+Minecraft+Patched+1.21.44.apk/file)
-
-[1.21.44 Patch (Official) + Support Skin 4D](https://www.mediafire.com/file/abqf74pdrakfe5s/(ᴋɪᴍᴏ)+Minecraft+Patched+1.21.44.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.21.30 Patch (Official)
 
