@@ -14,6 +14,8 @@ description: Panduan AFDMC
 ## Pendahuluan
 Halo teman-teman,selamat datang di halaman panduan Web AFDMC, mungkin kalian masih bingung ini link download MCPE nya official/beta? atau tidak tau cara downloadnya?. Nah disini saya bakal ngasih bagaimana cara mendownloadnya
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
 ## Tutorial
 
 ### Langkah-langkah

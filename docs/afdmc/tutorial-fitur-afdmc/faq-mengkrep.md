@@ -13,6 +13,8 @@ description: Pertanyaan yang sering ditanyakan seputar "Link Download MCPE"
 # FAQ AFDMC
 **Pertanyaan yang sering ditanyakan seputar "Link Download MCPE"**
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
 <details>
   <summary>Apakah apk MCPE nya dikasih password?</summary>
 

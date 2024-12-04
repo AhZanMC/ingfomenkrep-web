@@ -27,6 +27,12 @@ Bingung cara download, cek panduan dengan cara klik [di sini](#tutorial). Dan ji
 
 ## LIST
 
+### 1.21.50
+
+[1.21.50 OFFICIAL (Link 1)](https://drive.google.com/file/d/1gdUQPhWgImf21JfnVE8rF9qaHpCTT-PI/view?usp=drivesdk)
+
+[1.21.50 OFFICIAL (Link 2)](https://www.mediafire.com/file/fafxuchm7cdygww/minecraft-1-21-50-by-rizky.apk/file)
+
 ### 1.21.50.20 (Beta and Preview)
 
 [1.21.50.20 (Beta and Preview)](https://www.mediafire.com/file/7qcwrwi2sd8cxbv/minecraft-1-21-50-20.apk/file)

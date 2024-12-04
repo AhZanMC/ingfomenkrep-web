@@ -14,6 +14,8 @@ Hai Minecrafter, Selamat datang di halaman **Website Ingfo Menkrep**
 
 Tenang aja, gengs!  Kali ini, ada website keren yang siap menemani kalian menjelajahi dunia literasi!  Namanya **Ingfo Menkrep**!
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
 Pernah ga sih kamu merasa bosen main Minecraft dengan tampilan yang gitu-gitu aja? Rasanya udah kurang greget dan pengen coba sesuatu yang baru?. Tenang aja, ga perlu khawatir! Di sini, aku bakal kasih tau kamu cara mudah untuk upgrade dunia Minecraft kamu biar makin keren dan seru!
 
 Mau tau cara pasang  **addon** , **texture pack** , **shader**  atau **Cara Download MCPE di Website Ingfo Menkrep** Langsung aja cek website ini! Di sini, kamu bakal nemuin tutorial lengkap dan mudah dimengerti, dijamin ga bakal bikin kamu pusing!

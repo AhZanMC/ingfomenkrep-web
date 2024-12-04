@@ -12,6 +12,8 @@ description: Aplikasi Ingfo Menkrep
 
 Malas akses Ingfo Menkrep lewat browser??. Aplikasi **Ingfo Menkrep** hadir untuk menjawab kebutuhanmu!
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
 ## Kenalan Yuk
 **Ingfo Menkrep** adalah aplikasi panduan lengkap untuk semua Minecrafter, baik pemula maupun yang sudah berpengalaman. Dapatkan akses mudah ke berbagai informasi, tutorial, dan sumber daya untuk meningkatkan pengalaman bermain Minecraft-mu.
 

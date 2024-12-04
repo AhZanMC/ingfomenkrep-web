@@ -18,6 +18,8 @@ Saluran WA : [Klik disini](https://ingfomenkrep.my.id/saluran-wa)
 
 Discord : [Klik Disini](https://ingfomenkrep.my.id/discord)
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
 :::warning
 Jika kamu memilih untuk mengubungi melalui email pastikan kamu mengerti cara mengirim email dengan baik dan benar.
 :::

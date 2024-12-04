@@ -8,7 +8,9 @@ description: Tentang Ingfo Menkrep
 
 # Tentang Kami
 
-Selamat datang di **Ingfo Menkrep**. Kami adalah komunitas Minecrafter berbasis grup di platform chatting dan website yang menjadi tempat untuk berbagi pengetahuan, inspirasi, dan pengalaman seputar dunia blok yang tak terbatas. 
+Selamat datang di **Ingfo Menkrep**. Kami adalah komunitas Minecrafter berbasis grup di platform chatting dan website yang menjadi tempat untuk berbagi pengetahuan, inspirasi, dan pengalaman seputar dunia blok yang tak terbatas.
+
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ## Visi dan Misi
 
