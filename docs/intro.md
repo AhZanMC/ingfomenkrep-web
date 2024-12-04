@@ -40,7 +40,7 @@ Selamat menjelajah! 🚀
 
 ## Navigasi yang Harus Dijelajah
 
-[AFDMC](https://afdmc.ingfomenkrep.my.id/) : Web AFDMC, dunglut mengkrev disini
+[AFDMC](/docs/category/afdmc) : Fitur AFDMC, dunluT Mengkrep disini
 
 [Aplikasi](/docs/get-apps) : Dapatkan aplikasi **Ingfo Menkrep**
 

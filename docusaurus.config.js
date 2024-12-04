@@ -127,14 +127,26 @@ const config = {
           },
           // Navbar Menu : Sebelah Kanan
           {
-            href: "https://afdmc.ingfomenkrep.my.id/",
-            label: "AFDMC",
-            position: "right",
+            // Dropdown
+            type: 'dropdown',
+            label: 'Community',
+            position: 'right',
+            // dropdownActiveClassDisabled: true,
+            items: [
+              {
+                href: 'https://ingfomenkrep.my.id/discord',
+                label: 'Discord',
+              },
+              {
+                href: 'https://ingfomenkrep.my.id/saluran-wa',
+                label: 'Saluran WA',
+              }
+            ]
           },
-          { 
-            to: "/docs/community",
-            label: "Community", 
-            position: "right" 
+          {
+            href: "https://ingfomenkrep.my.id/support",
+            label: "Support Me",
+            position: "right",
           },
           {
             href: "https://ingfomenkrep.my.id/contact",
@@ -202,7 +214,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}. Made by <a href="https://ahzanmc.my.id">AhZanMC</a> Powered by <a href="https://ingfomenkrep.my.id">Ingfo Menkrep</a>.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. Made by <a href="https://ahzanmc.my.id">AhZanMC</a> Powered by <a href="https://ingfomenkrep.my.id">Ingfo Menkrep</a><br>This site is not affiliated with Mojang Studios.`,
       },
       prism: {
         theme: prismThemes.github,

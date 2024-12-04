@@ -1,0 +1,28 @@
+---
+id: other
+title: Others
+sidebar_position: 5
+slug: other-stuff-sementara
+tags:
+  - Bedrock
+  - Minecraft
+description: Other
+---
+
+# Others
+
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
+:::info[Info]
+Bingung cara download, cek panduan dengan cara klik [di sini](#tutorial). Dan jika kamu menemukan link yang error atau keliru bisa menghubungi contact@ahzanmc.my.id
+:::
+
+## Minecraft Vanilla Music
+
+### Melody - A Minecraft Musicpack (1.21)
+
+Melody - 1.21 (Click Here)
+
+### Melody - A Minecraft Musicpack (1.20)
+
+Melody - 1.20 (Click Here)
