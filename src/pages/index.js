@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="docs/intro">
-            Let's Go!!!
+            to="/docs/intro">
+              Let's Go!!!
           </Link>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Berisi Dokumentasi Ingfo Menkrep, Dan share konten Minecraft">
+      description="Repositori AhZanMC - Temukan karya dan project AhZanMC disini">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

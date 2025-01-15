@@ -11,8 +11,6 @@ description: MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat k
 
 # MCPE Patch (32 Bit dan 64 Bit)
 
-MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang main pakai shader (Support HP Android 32 dan 64 Bit)
-
 [![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
 
 :::info[Info]
@@ -23,13 +21,19 @@ Bingung cara download, cek panduan dengan cara klik [di sini](#tutorial). Dan ji
 Dengan mendownload Minecraft yang sudah di-patch, saya benar-benar paham cara memasang texture / shaderpack, mengimpor dan mengekspor world Minecraft, memindahkan versi tanpa kehilangan data.
 :::
 
+MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang main pakai shader (Support HP Android 32 dan 64 Bit)
+
 ## LIST
+
+### 1.21.51 Patch (Official)
+
+[1.21.51 Patch (Official)](https://www.mediafire.com/file/rprzirzg252u41x/3f9ca612-fc5d-4c6c-aba3-b7a35cab222b.apk/file)
 
 ### 1.21.50 Patch (Official)
 
-:::warning
-Maaf linknya Rusak dan nggak bisa di akses 
-:::
+[1.21.50 Patch (Official)](https://www.mediafire.com/file/k33ctjvnui9j2qr/v1_21_50_arm64%2B32.apk/file)
+
+[1.21.50 DracoPatch (Official)](https://www.mediafire.com/file/k33ctjvnui9j2qr/v1_21_50_arm64%2B32.apk/file)
 
 ### 1.21.41 Patch (Official)
 

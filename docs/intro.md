@@ -10,25 +10,19 @@ description: Kenalan Sama Website Ingfo Menkrep Sebelum Kamu Menjelajah
 
 # INTRO
 
+[Skip biar langsung ke intinya >](#waktunya-menjelajah)
+
 Hai Minecrafter, Selamat datang di halaman **Website Ingfo Menkrep**
 
-Tenang aja, gengs!  Kali ini, ada website keren yang siap menemani kalian menjelajahi dunia literasi!  Namanya **Ingfo Menkrep**!
+Tenang aja, gengs!  Kali ini, ada website keren yang siap menemani kalian menjelajahi dunia literasi! Namanya **Ingfo Menkrep**!
 
 [![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
 
-Pernah ga sih kamu merasa bosen main Minecraft dengan tampilan yang gitu-gitu aja? Rasanya udah kurang greget dan pengen coba sesuatu yang baru?. Tenang aja, ga perlu khawatir! Di sini, aku bakal kasih tau kamu cara mudah untuk upgrade dunia Minecraft kamu biar makin keren dan seru!
+## Kenalan Sama Ingfo Menkrep
 
-Mau tau cara pasang  **addon** , **texture pack** , **shader**  atau **Cara Download MCPE di Website Ingfo Menkrep** Langsung aja cek website ini! Di sini, kamu bakal nemuin tutorial lengkap dan mudah dimengerti, dijamin ga bakal bikin kamu pusing!
+INGFO MENKREP adalah platform berbasis website, saluran dan grup di platform chatting yang dibuat untuk sharing informasi seputar Minecraft mulai dari sharing info update minecraft, sharing addon, sharing map, sharing texture pack, sampai berbagi tips dan trik untuk bermain Minecraft
 
-## Kenapa sih harus mampir di website ini?
-
-* **Gampang banget!** : Tutorialnya ditulis dengan bahasa yang jelas dan padat, dijamin mudah dimengerti bahkan buat kamu yang baru pertama kali belajar.
-* **Lengkap!** : Ada berbagai macam tutorial untuk berbagai macam addon, texture pack, dan shader. Tinggal pilih mana yang kamu suka! (Kalo Ada :v)
-* **Gratis!** : Semua tutorial di website ini bisa kamu akses secara gratis (ujung-ujungnya, nanti diarahin ke url asli dari creator)
-* **Khusus subscriber** : Jika kamu mengirim addon/texture/shader/map buatan kalian sendiri, InsyaAllah bakal ditambahkan ke sini.
-* **Karya dari komunitas** : Nikmati karya-karya kreatif dari komunitas Minecraft, seperti map, mod, addon, texture dan shader.
-
-**Yuk, tunggu apa lagi?** Langsung aja kunjungi website ini sekarang
+**Yuk, tunggu apa lagi?** Langsung aja kunjungi website dan join saluran dan grup wa ini sekarang
 
 **Ingat! MINIMAL JANGAN MINUS LITERASI (Sebagian teks menghilang)**
 
@@ -40,23 +34,50 @@ Kami sangat senang Anda bergabung dengan kami dalam petualangan ini. Mari kita b
 
 Selamat menjelajah! 🚀
 
-## Navigasi yang Harus Dijelajah
-
-[AFDMC](/docs/category/afdmc) : Fitur AFDMC, dunluT Mengkrep disini
-
-[Aplikasi](/docs/get-apps) : Dapatkan aplikasi **Ingfo Menkrep**
-
-[Blog](/blog) : Untuk melihat blog yang berisi informasi tentang di web ini
-
-[Tutorial Minecraft](/docs/category/tutorial-minecraft) : Berisi tutorial Minecraft
-
-[Tutorial Penting](/docs/category/tutorial-penting) : Berisi tutorial penting
-
-**Karya dari komunitas ingfo menkrep**
-
-[Kiriman dari Komunitas](/docs/category/karya-komunitas) : Kiriman dari komunitas seperti Addon, map, shader, texture, mod dan skinpack
-
-[Kiriman dari Subscriber](/docs/category/kiriman-dari-subscriber) : Kiriman dari Subscriber AhZanMC seperti Addon, map, shader, texture, mod dan skinpack
+<div class="row">
+    <div class="col col--4">
+    <!-- Card 1 -->
+        <div class="card-demo">
+            <div class="card">
+                <div class="card__image">
+                    <img src="/img/logo.webp"
+                        alt="Image alt text" title="Logo Title Text 1" />
+                </div>
+                <div class="card__body">
+                    <h4>Join Our Community</h4>
+                    <small>
+                        Yok join komunitas Ingfo Menkrep sekarang juga, jangan malu-malu kok. Admin gak gigit kamu
+                    </small>
+                </div>
+                <div class="card__footer">
+                    <a href="/community" class="button button--primary button--block">JOIN SEKARANG</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Card 2 -->
+    <div class="col col--4">
+        <div class="card-demo">
+            <div class="card">
+                <div class="card__image">
+                    <img src="/img/logo-afdmc.webp"
+                        alt="Image alt text" title="Logo Title Text 1" />
+                </div>
+                <div class="card__body">
+                    <h4>AFDMC</h4>
+                    <small>
+                        Sini, kalo kamu cari mengkrep 🗿<br/>
+                        Yok diborong jangan malu-malu lohhh
+                        Free - No Ads - Easy - No PW
+                    </small>
+                </div>
+                <div class="card__footer">
+                    <a href="category/afdmc" class="button button--primary button--block">Klik Disini</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 

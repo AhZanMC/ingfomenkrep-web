@@ -3,7 +3,7 @@ slug: apa-itu-mcpe-patch
 title: Apa Itu Minecraft atau MCPE Patched?
 authors: [ahzanmc]
 tags: [shader, mcpe, texture]
-date: 2024-08-28
+date: 2024-09-18
 ---
 
 Semenjak mcpe update ke versi 1.18.30, Mojang resmi menggunakan engine renderdragon baru yaitu **Renderdragon** yang membuat shader-shader di versi lama nggak support lagi, jadi sebagai komunitas Minecraft Bedrock terutama player MCPE kecewa karena gak bisa main Minecraft pakai shader.

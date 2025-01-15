@@ -37,22 +37,34 @@ const config = {
   presets: [
     [
       "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      /**@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://youtu.be/MDnTljPQDAw",
+          // editUrl: "https://youtu.be/MDnTljPQDAw",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://youtu.be/MDnTljPQDAw",
+          // editUrl: "https://youtu.be/MDnTljPQDAw",
         },
         theme: {
           customCss: "./src/css/custom.css",
+        },
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+          createSitemapItems: async (params) => {
+            const {defaultCreateSitemapItems, ...rest} = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => !item.url.includes('/page/'));
+          },
         },
       }),
     ],
@@ -140,6 +152,10 @@ const config = {
               {
                 href: 'https://ingfomenkrep.my.id/saluran-wa',
                 label: 'Saluran WA',
+              },
+              {
+                href: 'https://ingfomenkrep.my.id/grup-wa',
+                label: 'Grup WA',
               }
             ]
           },
@@ -172,8 +188,8 @@ const config = {
                 to: "/blog",
               },
               {
-                label: "Tutorial",
-                to: "/docs/category/tutorial-minecraft",
+                label: "AFDMC",
+                to: "/docs/category/afdmc",
               },
             ],
           },
@@ -206,11 +222,7 @@ const config = {
               {
                 label: "Support Me!!!",
                 href: "https://ingfomenkrep.my.id/support",
-              },
-              {
-                label: "AFDMC",
-                href: "https://afdmc.ingfomenkrep.my.id",
-              },
+              }
             ],
           },
         ],

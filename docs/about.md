@@ -42,8 +42,7 @@ Mendukung kreativitas para pemain melalui berbagai event dan kompetisi.
 - BhycingLucero
 - Overlix
 - Farkan
-- Oddo
-- Risuper
+- Nazuma
 - dll
 
 **Kontributor :**

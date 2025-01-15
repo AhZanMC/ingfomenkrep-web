@@ -14,6 +14,8 @@ Yuk Kenalan dengan Fitur di Website Ini
 
 Pepatah mengatakan **"Kalo tidak kenal maka tidak sayang"**
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
 ## Apa itu Website AFDMC??
 AFDMC adalah sebuah komunitas berbasis website yang menyediakan berbagai macam versi menkrep geratis tanpa kata sandi dan iklan yang dapat mengganggu kenyamanan kalian saat ingin mengunduhnya, komunitas ini menyediakan berbagai macam versi permainan mulai dari yang official, beta, patched dan night vision. Dan sekarang udah balik ke Ingfo Menkrep
 

@@ -11,21 +11,25 @@ description: MCPE Official dan Beta (Biasa),cocok buat kamu yang pengen main bia
 
 # MCPE Official dan Beta (Biasa)
 
-MCPE Official dan Beta (Biasa),cocok buat kamu yang pengen main biasa aja dan nggak mau pakai shader
-
 [![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
 
 :::warning
 Ingat ya, disini tidak ada kata "Mcpe ORI" sebagai gantinya ditulis "MCPE biasa" supaya kalian nggak salah paham
-
-Maksudnya ya mcpe biasa tanpa dikasih material bin loader kek mcpe patch atau dikasih night vision atau di mod
 :::
 
 :::info[Info]
 Bingung cara download, cek panduan dengan cara klik [di sini](#tutorial). Dan jika kamu menemukan link yang error atau keliru bisa menghubungi contact@ahzanmc.my.id
 :::
 
+MCPE Official dan Beta (Biasa),cocok buat kamu yang pengen main biasa aja dan nggak mau pakai shader
+
+Maksudnya ya mcpe biasa tanpa dikasih material bin loader kek mcpe patch atau dikasih night vision atau di mod
+
 ## LIST
+
+### All Version
+
+[Cek disini](https://mcpedl.org/downloading/)
 
 ### 1.21.50
 

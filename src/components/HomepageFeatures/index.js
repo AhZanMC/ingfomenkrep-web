@@ -4,43 +4,58 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: "Mudah Digunakan",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    title: "Join Our Community",
+    imgSrc: require("@site/static/img/logo.webp").default,
     description: (
       <>
-        Akses dimana saja dan kapan saja, dan mudah untuk diakses oleh siapapun.
+        Yok join komunitas Ingfo Menkrep sekarang juga, jangan malu-malu kok. Admin gak gigit kamu<br />
+        Komunitas ini terbuka untuk semua orang
       </>
     ),
+    linkbutton: "/community",
+    tulisan_ditombol: "Join Sekarang",
   },
   {
-    title: "Lengkap",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "AFDMC",
+    imgSrc: require("@site/static/img/logo-afdmc.webp").default,
     description: (
       <>
-        Berisi penuh dengan perpustakaan tutorial minecraft dan lain-lain.
+        Sini, kalo kamu cari mengkrep 🗿<br />
+        Yok diborong jangan malu-malu lohhh<br />
+        Free - No Ads - Easy - No PW
       </>
     ),
+    linkbutton: "/docs/category/afdmc",
+    tulisan_ditombol: "Klik Disini",
   },
   {
-    title: "Part of MFNID",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "Store",
+    imgSrc: require("@site/static/img/ahzanmcstore.webp").default,
     description: (
       <>
-        Komunitas ini telah melakukan partnership dengan MFNID
+        Lagi cari pixelart dan custom skin minecraft dengan harga murah meriah, yok ke AhZanMC Store aja lohhh. GASKAN SEBELUM KEHABISAN
       </>
     ),
+    linkbutton: "https://store.ahzanmc.my.id",
+    tulisan_ditombol: "Klik Disini",
   },
 ];
 
-function Feature({Svg, title, description}) {
+
+function Feature({ imgSrc, title, description, linkbutton, tulisan_ditombol }) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {imgSrc && <img src={imgSrc} alt={title} className={styles.featureImg} />}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
+        <div>
+          <a className="button button--outline button--secondary" href={linkbutton}>
+            {tulisan_ditombol}
+          </a>
+        </div>
       </div>
     </div>
   );

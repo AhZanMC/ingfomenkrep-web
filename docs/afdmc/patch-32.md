@@ -11,6 +11,8 @@ description: MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat k
 
 # MCPE Patch (32 Bit)
 
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
+
 :::info[Info]
 Bingung cara download, cek panduan dengan cara klik [di sini](#tutorial). Dan jika kamu menemukan link yang error atau keliru bisa menghubungi contact@ahzanmc.my.id
 :::
@@ -20,8 +22,6 @@ Dengan mendownload Minecraft yang sudah di-patch, saya benar-benar paham cara me
 :::
 
 MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang main pakai shader (Support HP Android 32 Bit)
-
-[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
 
 ## LIST
 
