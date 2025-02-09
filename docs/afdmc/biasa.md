@@ -31,11 +31,13 @@ Maksudnya ya mcpe biasa tanpa dikasih material bin loader kek mcpe patch atau di
 
 [Cek disini](https://mcpedl.org/downloading/)
 
+### 1.21.51
+
+[1.21.51 OFFICIAL](https://mcpedl.org/uploads_files/11-12-2024/minecraft-1-21-51.apk)
+
 ### 1.21.50
 
-[1.21.50 OFFICIAL (Link 1)](https://drive.google.com/file/d/1gdUQPhWgImf21JfnVE8rF9qaHpCTT-PI/view?usp=drivesdk)
-
-[1.21.50 OFFICIAL (Link 2)](https://www.mediafire.com/file/fafxuchm7cdygww/minecraft-1-21-50-by-rizky.apk/file)
+[1.21.50 OFFICIAL](https://www.mediafire.com/file/fafxuchm7cdygww/minecraft-1-21-50-by-rizky.apk/file)
 
 ### 1.21.50.20 (Beta and Preview)
 

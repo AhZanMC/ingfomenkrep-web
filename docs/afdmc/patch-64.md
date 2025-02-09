@@ -39,7 +39,9 @@ Maaf linknya Rusak dan nggak bisa di akses
 
 ### 1.21.0 Patch (Official)
 
-[1.21.0 Patch (Official)](https://www.mediafire.com/file/mgpqw1voqnz9lik/1.21.0.03__arm64_patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.20.81 Patch (Official)
 
@@ -47,11 +49,15 @@ Maaf linknya Rusak dan nggak bisa di akses
 
 ### 1.20.80 Patch (Official)
 
-[1.20.80 Patch (Official)](https://www.mediafire.com/file/pplk51uj3cflkv2/1.20.51.01_arm64_v8a_patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.20.51 Patch (Official)
 
-[1.20.51 Patch (Official)](https://www.mediafire.com/file/pplk51uj3cflkv2/1.20.51.01_arm64_v8a_patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.20.41 Patch (Official)
 

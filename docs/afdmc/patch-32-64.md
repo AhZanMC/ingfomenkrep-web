@@ -27,7 +27,9 @@ MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang ma
 
 ### 1.21.51 Patch (Official)
 
-[1.21.51 Patch (Official)](https://www.mediafire.com/file/rprzirzg252u41x/3f9ca612-fc5d-4c6c-aba3-b7a35cab222b.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.21.50 Patch (Official)
 
@@ -41,11 +43,12 @@ MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang ma
 
 ### 1.21.40 Patch (Official)
 
-[1.21.40 Patch (Official)](https://www.mediafire.com/file/zmb72milfbxxqlm/1.21.40.04_arm32_arm64_Patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.21.31 Patch (Official)
 
-[1.21.31 Patch (Official)](https://www.mediafire.com/file/lqreqe6oe5e7vww/Minecraft_Patched_1.21.31.apk/file)
 
 [1.21.31 Patch (Official) - Repo Github](https://github.com/mcpebd/mcpebd/releases/download/1.21.31.04/1.21.31.04_arm32_arm64_patched_unofficial.apk)
 
@@ -61,7 +64,9 @@ MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang ma
 
 ### 1.21.21 Patch (Official)
 
-[1.21.21 Patch (Official)](https://www.mediafire.com/file/jwjwcx32fxx9gt2/1.21.21.01_arm32_arm64_patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.21.20 Patch (Official)
 
@@ -77,15 +82,21 @@ Maaf linknya Rusak dan nggak bisa di akses
 
 ### 1.21.1 Patch (Official)
 
-[1.21.1 Patch (Official)](https://www.mediafire.com/file/bjhe5noxda4m5mb/1.21.1.03_arm32_arm64_patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.20 Patch (Official)
 
-[1.21.0 Patch (Official)](https://www.mediafire.com/file/mgpqw1voqnz9lik/1.21.0.03_arm64_patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.20.81 Patch (Official)
 
-[1.20.81 Patch (Official)](https://www.mediafire.com/file/g0w2qco82dnf30y/Minecraft-1.20.81.01-Patched.apk/file)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.20.73 Patch (Official)
 

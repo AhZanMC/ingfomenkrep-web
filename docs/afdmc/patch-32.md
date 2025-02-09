@@ -27,7 +27,9 @@ MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang ma
 
 ### 1.21 Patch (Official)
 
-[1.21.0 PATCH (Official)](https://www.mediafire.com/file/uz5cklcq88upm32/1.21.0.03_arm32_Draco_Patched.apk/file?dkey=u8z0pnaey38&r=1884)
+:::warning
+Maaf linknya Rusak dan nggak bisa di akses 
+:::
 
 ### 1.20.81 Patch (Official)
 
