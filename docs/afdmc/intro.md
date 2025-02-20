@@ -39,7 +39,7 @@ Komunitas ini tidak hanya sekedar membagikan link update Menkrep saja, komunitas
 8. Jika ada pertanyaan atau ingin melaporkan masalah,jangan sungkan-sungkan untuk DM IG [@ahzanmc](https://www.instagram.com/ahzanmc/) atau [join discord Teman Fauzan](https://ahzanmc.my.id/discord)
 9. Dev Website Ingfo Menkrep pernah berkata : "jika mayoritas dari komunitas Minecraft di Indonesia sudah membeli MCPE ori, maka tugas kami sebagai developer Website Ingfo Menkrep sudah selesai. Dan kami berterimakasih karena kalian sudah menggunakan website kami untuk mendapatkan link download mcpe yang free dan gampang diakses, semoga kalian menyukai game Minecraft dan mendukung developer yaitu Mojang Studios"
 10. Jika link nya kena block atau blokir, kami tidak bisa melakukan apa-apa lagi karena ini diluar kendali kami.
-11. Jika kalian ingin mensupportku jalur donate,kalian bisa donate dengan [Klik Disini](https://saweria.co/AhZanMC)
+11. Jika kalian ingin mensupportku jalur donate,kalian bisa donate dengan [Klik Disini](https://ingfomenkrep.my.id/support)
 12. Jangan lupa subscribe [channel YT AhZanMC](https://youtube.com/@AhZanMC)
 13. Jangan lupa [follow IG](https://instagram.com/ahzanmc) dan [Tiktok AhZanMC](https://www.tiktok.com/@ahzanmc)
 

@@ -1,45 +1,74 @@
-<div style={{ textAlign: 'center' }}>
-  <img src="/img/repozan-logo.png" alt="logo" style={{ width: '75%' }} />
-</div>
+---
+id: about-us
+title: Tentang Kami
+sidebar_position: 100
+slug: tentang-kami
+description: Tentang Ingfo Menkrep
+---
 
-# ABOUT
+# Tentang Kami
 
-Hai, Teman Fauzan 👋
+Selamat datang di **Ingfo Menkrep**.
 
-Selamat datang di website projectku bernama **Repozan**. Di sini kamu bisa menemukan berbagai project dan karya yang kubuat seperti Addons, Map, Shader, Texture, Skinpack dan mungkin juga aku pulish project atau karya selain Minecraft Project yang kubuat dengan penuh cinta dan dedikasi. Website ini terinspirasi dari website seperti Vatonage, Dimzproject dan beberapa website lain, yang dimana mereka mempublish karya-karya atau project-project mereka di sana.
+Ingfo Menkrep adalah Platform Berbasis Sharing Informasi dan panduan untuk games sandbox yaitu Minecraft, yang mengshare Informasi,Meme dan informasi lengkap lain, dan juga sebagai perkumpulan player minecrafter untuk berdiskusi seputar games minecraft atau sandbox lain nya
 
-# Apa itu Repozan
+[![Random Image](https://imapi.ingfomenkrep.my.id/random-image-url)](https://imapi.ingfomenkrep.my.id/random-link)
 
-**Repozan** adalah singkatan dari **Repositori AhZanMC**, yang terinspirasi oleh konsep repositori di GitHub, di mana saya mengumpulkan dan mempublikasikan berbagai karya serta project yang saya buat.
+## Visi dan Misi
 
-## Apa yang Bisa Kamu Temukan di Sini?
+**Visi Kami:**
 
-Aku suka bereksperimen dengan berbagai hal di Minecraft, jadi kamu akan menemukan berbagai macam project di sini, termasuk:
+Menjadi komunitas Minecraft yang informatif, suportif, dan inovatif dalam berbagi pengetahuan, pembaruan, serta perkembangan terbaru di dunia Minecraft
 
-- **Addon**
-- **Map**
-- **Shader**
-- **Texture**
-- **Skinpack**
+**Misi Kami:**
 
-Selain itu, aku juga sedang bekerja di beberapa proyek lain yang mungkin akan segera tersedia di sini, jadi jangan lupa untuk terus mengunjungi dan mengecek update terbaru. Setiap karya yang ada di sini merupakan hasil dari eksperimen dan dedikasi untuk membawa yang terbaik untuk komunitas Minecraft.
+Menyediakan Informasi Akurat,Membangun komunitas yang positif,mengedukasi pemain,mendukung kreativitas,menyediakan tempat diskusi,beradaptasi dengan perkembangan minecraft
 
-Terima kasih sudah mengunjungi, semoga kamu menemukan sesuatu yang menarik!
+## Apa yang Kami Tawarkan:
 
-:::info
-Dan mungkin aku bakal post karya atau Project selain Minecraft project kesini juga
+- Panduan Lengkap : Dari pemula hingga pemain berpengalaman, kami punya panduan untuk semua level.
+- Tips & Trik : Pelajari cara membangun struktur yang menakjubkan, membuat redstone mekanisme, dan menciptakan dunia Minecraft yang unik.
+- Berita Terbaru: Dapatkan update terbaru tentang update Minecraft, event, dan tren terbaru di Minecraft yang bakal di share lewat saluran WA.
+- Forum Diskusi: Berinteraksi dengan ribuan pemain Minecraft lainnya, berbagi pengalaman, dan mencari solusi atas masalah yang kamu hadapi.
+- Karya dari komunitas : Nikmati karya-karya kreatif dari komunitas Minecraft, seperti map, mod, addon, texture dan shader.
+
+**Bergabunglah dengan Komunitas Kami!**
+
+:::tip[Creator]
+**Creator :** AhZanMC
+
+**Admin DC/WA :**
+- Oxim
+- BhycingLucero
+- Overlix
+- Farkan
+- Nazuma
+- dll
+
+**Kontributor :**
+- DaxredGM
+- TDev
+- Dan kalian semua
+
+**Tech stack :** Docusaurus (versi terbaru)
 :::
 
-## CREDIT
-
-Website ini terinspirasi dari website seperti **Vatonage**, **Dimzproject**, dan beberapa website lain, yang dimana mereka mempublish karya-karya atau project-project mereka di sana. Beberapa karya yang ada di sini terinspirasi oleh berbagai sumber dan komunitas Minecraft yang luar biasa. Terima kasih kepada semua yang telah memberikan kontribusi dalam bentuk ide, tutorial, atau karya lainnya yang menginspirasi. Website ini juga dibuat dengan bantuan teknologi luar biasa seperti **Docusaurus**.
-
-## Disclaimer
-
-Website ini tidak terafiliasi dengan **Mojang** atau **Microsoft**. Semua konten yang berhubungan dengan Minecraft adalah hasil karya pribadi dan dibuat untuk komunitas penggemar Minecraft tanpa dukungan resmi dari pihak Mojang atau Microsoft.
-
-## Contact Me
-:::info
-Jika kamu memiliki pertanyaan, saran, atau hanya ingin berbicara lebih lanjut mengenai project-project di website ini, jangan ragu untuk menghubungi saya! Kamu bisa mengirimkan pesan melalui:
-* **Contact Me**: [Klik Disini](https://ahzanmc.my.id/contact)
+:::warning[Pesan Dari Admin]
+1. Ingfo Menkrep adalah komunitas Minecraft yang informatif, suportif, dan inovatif dalam berbagi pengetahuan, pembaruan, serta perkembangan terbaru di dunia Minecraft
+2. Link mengkrep yang ada di Website ini adalah **link eksternal (diluar dari website ini)**, jadi kalau semisal linknya error/expired itu diluar kendali saya (yang bisa saya lakukan hanya mengganti link yang baru dan bisa diakses)
+3. Untuk request addon, texture, map, mod lewat saluran wa masih admin buka cuman mohon maaf jika admin kurang cepat dalam mencari dan membagikannya
+4. Admin tidak menerima request addon atau konten DLC marketplace ke saluran WA.
+5. Tolong untuk mematuhi peraturan yang ada di komunitas **Ingfo Menkrep**
+6. JANGAN MEMBUAT DRAMA-DRAMA DI KOMUNITAS
+7. Jika kamu mau mensupport Ingfo Menkrep, kamu bisa support lewat link yang ada [disini](https://ingfomenkrep.my.id/support)
 :::
+
+:::info[Catatan]
+Ingfo Menkrep dibuat oleh para penggemar Minecraft yang bersemangat untuk berbagi pengetahuan dan sumber daya dengan komunitas. Kami tidak berafiliasi dengan Mojang Studios atau Microsoft. Tujuan kami adalah menyediakan platform yang mudah diakses dan informatif bagi semua pemain Minecraft.
+:::
+
+:::note[Contact]
+Jika kamu memiliki pertanyaan, saran, collab, melaporkan bug,atau ingin berkontribusi, dll. Bisa hubungi lewat [sini](https://ingfomenkrep.my.id/contact) atau melalui email contact@ahzanmc.my.id
+:::
+
+Terimakasih

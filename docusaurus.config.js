@@ -133,7 +133,7 @@ const config = {
             position: "left" 
           },
           { 
-            to: "/docs/tentang-kami",
+            to: "/about",
             label: "About Us", 
             position: "left" 
           },
