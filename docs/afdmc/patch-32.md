@@ -25,6 +25,10 @@ MCPE Khusus Untuk Bisa Menjalankan Shader Renderdragon,cocok buat kalian yang ma
 
 ## LIST
 
+### 1.21.60 Patch (Official)
+
+[1.21.60 Patch (Official)](https://www.mediafire.com/file/cpfz6sfc0d2rqbg/Minecraft_1.21.60.10_%2528Patched%2529.apk/file)
+
 ### 1.21 Patch (Official)
 
 :::warning
